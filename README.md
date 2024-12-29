@@ -24,9 +24,9 @@ A simple Netflix Clone built using HTML, CSS, and vanilla JavaScript. This proje
 
 ## Demo
 
-![Netflix Clone Demo Screenshot](demo-image.png)
 
-[Live Demo](#) (Replace with actual link when deployed)
+
+[Live Demo](https://netflix-clone-tau-black.vercel.app/) (Replace with actual link when deployed)
 
 ## Installation
 
