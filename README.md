@@ -63,11 +63,8 @@ A simple Netflix Clone built using HTML, CSS, and vanilla JavaScript. This proje
 netflix-clone/
 ├── css/
 │   ├── styles.css
-│   └── responsive.css
 ├── js/
 │   ├── app.js
-│   ├── data.js
-│   └── utils.js
 ├── images/
 │   └── (movie thumbnails and icons)
 ├── index.html
