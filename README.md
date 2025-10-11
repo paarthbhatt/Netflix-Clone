@@ -31,7 +31,7 @@ A simple Netflix Clone built using HTML, CSS, and vanilla JavaScript. This proje
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/paarthbhatt/Netflix-Clone.git
    ```
 
 2. Navigate to the project directory:
@@ -58,15 +58,12 @@ A simple Netflix Clone built using HTML, CSS, and vanilla JavaScript. This proje
 ## Project Structure
 
 ```
-netflix-clone/
-├── css/
-│   ├── styles.css
-├── js/
-│   ├── app.js
-├── images/
-│   └── (movie thumbnails and icons)
+.
+├── README.md
+├── assets/
+├── favicon.ico
 ├── index.html
-└── README.md
+└── style2.css
 ```
 
 ## Future Enhancements
